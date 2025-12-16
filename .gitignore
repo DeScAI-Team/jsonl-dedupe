@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!dedupe_cli.py
+!dedupe_delete.py
+!dedupe_genes.py
+!README.md
+!requirements.txt
