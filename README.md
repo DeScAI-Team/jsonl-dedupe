@@ -1,4 +1,4 @@
-# Gene Record Deduplication Tool
+# JSONl Deduplication Tool
 
 A CLI tool for detecting and removing duplicate records from JSONL files. Designed for cleaning LLM training data.
 
