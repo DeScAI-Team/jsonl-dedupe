@@ -1,6 +1,6 @@
 # JSONl Deduplication Tool
 
-A CLI tool for detecting and removing duplicate records from JSONL files. Designed for cleaning LLM training data.
+A CLI tool for detecting and removing duplicate records from JSONL files. Designed for cleaning ncbi gene records but should work for any JSONL files.
 
 ## Features
 
